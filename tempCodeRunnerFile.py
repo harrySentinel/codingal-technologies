@@ -1,1 +1,0 @@
-Wow, {hobby} sounds fun!
